@@ -1,0 +1,5 @@
+商品的增删改查，用户登录与注册
+https://github.com/TyCoding/spring-boot  整合SpringBoot2.x+Mybatis，结合Vue.js简单实现CRUD业务
+
+使用Thymeleaf作为前端模板引擎
+
